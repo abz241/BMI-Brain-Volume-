@@ -1,6 +1,7 @@
 # BMI-Brain-Volume
 Prediction analysis 
-white matter volume
+White matter volume
 Gray matter volume
 CSF volume
+Thalamic volume 
 Whole brain volume 
